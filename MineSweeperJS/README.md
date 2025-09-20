@@ -1,0 +1,2 @@
+幫我製作一個使用javascript的踩地雷網頁遊戲
+Start building
